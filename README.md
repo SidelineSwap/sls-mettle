@@ -1,9 +1,8 @@
 # SidelineSwap Java Coding Exercise (sls-mettle)
-Java coding exercises
 
 ## Description
 
-In this coding exercise you will create a simple Spring Boot application that hosts a REST web service and persists data to a database.
+In this coding exercise you will create a simple Spring Boot application that hosts a REST web service and persists data in a database.
 
 ## Required Tasks
 
