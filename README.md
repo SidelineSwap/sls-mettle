@@ -22,6 +22,11 @@ In this coding exercise you will create a simple Spring Boot application that ho
     ```
 3. Instantiate the database schema for storing this information using FlywayDB. Use PostgreSQL or MySQL for the database.
 4. Add appropriate logging statements and error handling.
+5. Feel free to show off any architectural patterns you prefer.
+
+## Submiting
+1. Please commit your resulting code to a repository on your personal GitHub account. 
+2. Share the link to the repository to your contact on the SidelineSwap team.
 
 ## Requirements
 
