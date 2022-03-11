@@ -24,7 +24,7 @@ In this coding exercise you will create a simple Spring Boot application that ho
 4. Add appropriate logging statements and error handling.
 5. Feel free to show off any architectural patterns you prefer.
 
-## Submiting
+## Submitting
 1. Please commit your resulting code to a repository on your personal GitHub account. 
 2. Share the link to the repository to your contact on the SidelineSwap team.
 
