@@ -25,8 +25,8 @@ In this coding exercise you will create a simple Spring Boot application that ho
 5. Feel free to show off any architectural patterns you prefer.
 
 ## Submitting
-1. Please commit your resulting code to a repository on your personal GitHub account. 
-2. Share the link to the repository to your contact on the SidelineSwap team.
+1. Please commit your resulting code to a private repository on your personal GitHub account. 
+2. Add Michael-St-James to your repository and let us know that you have completed the task.
 
 ## Requirements
 
@@ -43,3 +43,4 @@ In this coding exercise you will create a simple Spring Boot application that ho
 1. Create a request filter that logs the IP address of each incoming request.
 2. Create a search endpoint that returns a list of matching items.
 3. Broadcast messages when items are modified to a RabbitMQ topic.
+4. Add unit tests to the project.
